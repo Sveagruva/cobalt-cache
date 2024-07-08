@@ -21,6 +21,7 @@ export class IntervalCleanup {
 
       isCleaning = true;
       this.cleanUp();
+      isCleaning = false;
     }, interval);
   }
 
