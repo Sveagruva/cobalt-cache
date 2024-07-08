@@ -19,8 +19,6 @@
 
 ## Installation
 
-1. Clone the repository:
-
    ```bash
     npm install cobalt-cache
     yarn add cobalt-cache
